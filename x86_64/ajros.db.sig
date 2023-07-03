@@ -1,1 +1,0 @@
-ajros.db.tar.gz.sig
